@@ -8,7 +8,7 @@
      <br><br>Contact me on <a href="https://twitter.com/krishnahrithik1">Twitter</a> or <c>Send an Email - krishnahrithik00@gmail.com</c>
   </samp>
 <br><br>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=kh-2000.kh-2000" alt="Visitors Counter">
+    <img src="https://komarev.com/ghpvc/?username=kh-2000&label=Views&color=green&style=plastic" alt="kh-2000"/>
 </p>
 
 <!--
