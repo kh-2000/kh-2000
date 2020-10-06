@@ -4,7 +4,7 @@
   <img src="https://www.postoast.com/wp-content/uploads/2018/08/Iron-Man-GIF.gif" width="100px">
   <br><br>
   <samp>
-  I'm Krishna Hrithik. I am undergrad. student pursuing CSE. I am presently working on data science, selenium and programming concepts.  
+  I'm Krishna Hrithik. I am undergrad. student doing bachelors in CSE. I am presently working on data science, selenium and programming concepts.  
      <br><br>Contact me on <a href="https://twitter.com/krishnahrithik1">Twitter</a> or <c>Send an Email - krishnahrithik00@gmail.com</c>
   </samp>
 <br><br>
