@@ -1,7 +1,7 @@
 ### Hi Github 👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <img src="https://www.postoast.com/wp-content/uploads/2018/08/Iron-Man-GIF.gif" width="100px">
   <br><br>
   <samp>
   I'm Krishna Hrithik. I am undergrad. student pursuing CSE. I am presently working on data science, selenium and programming concepts.  
