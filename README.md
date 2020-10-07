@@ -5,8 +5,16 @@
   <br><br>
   <samp>
   I'm Krishna Hrithik. I am undergrad. student doing bachelors in CSE. I am presently working on data science, selenium and programming concepts.  
-     <br><br>Contact me on <a href="https://twitter.com/krishnahrithik1">Twitter</a> or <c>Send an Email - krishnahrithik00@gmail.com</c>
   </samp>
+  <a href="https://twitter.com/imthepk">
+  <img align="left" alt="Hrithik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://linkedin.com/in/imthepk">
+  <img align="left" alt="Hrithik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://github.com/iampawan">
+  <img align="left" alt="Hrithik's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
 <br><br>
     <img src="https://komarev.com/ghpvc/?username=kh-2000&label=Views&color=green&style=plastic" alt="kh-2000"/>
 </p>
