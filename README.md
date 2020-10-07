@@ -8,13 +8,13 @@
   </samp>
 <br><br>
   <a href="https://twitter.com/krishnahrithik1">
-  <img align="left" alt="Hrithik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Hrithik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a href="https://linkedin.com/in/kh2000">
-  <img align="left" alt="Hrithik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Hrithik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://github.com/kh-2000">
-  <img align="left" alt="Hrithik's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Hrithik's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 <br><br>
     <img src="https://komarev.com/ghpvc/?username=kh-2000&label=Views&color=green&style=plastic" alt="kh-2000"/>
