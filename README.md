@@ -17,7 +17,7 @@
   <img align="center" alt="Hrithik's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />&nbsp;&nbsp;
   </a>
 <br><br>
- 
+  <img align="center" src="https://komarev.com/ghpvc/?username=kh-2000&label=ViewCounter&color=green&style=plastic" alt="kh-2000"/>
 </p>
 
 <!--
