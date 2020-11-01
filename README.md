@@ -17,7 +17,7 @@
   <img align="center" alt="Hrithik's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />&nbsp;&nbsp;
   </a>
   <a href="(https://gpvc.arturio.dev/kh-2000">
-  <img align="center" alt="Followers" src="https://img.shields.io/github/followers/kh-2000?label=Follow" style="float:left, margin-right:10px" />&nbsp;&nbsp;
+  <img align="center" alt="Followers" width="80px" src="https://img.shields.io/github/followers/kh-2000?label=Follow" style="float:left, margin-right:10px" />&nbsp;&nbsp;
   </a>
 <br><br>
 </p>
