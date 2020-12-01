@@ -19,6 +19,7 @@
   <a href="(https://gpvc.arturio.dev/kh-2000">
   <img align="center" alt="Followers" width="80px" src="https://img.shields.io/github/followers/kh-2000?label=Follow" style="float:left, margin-right:10px" />&nbsp;&nbsp;
   </a>
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br><br>
 </p>
 
